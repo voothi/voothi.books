@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "b866483c3df8ad16",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f562896e393c95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a159cd21adef51ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "books"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d91e391d3664239",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8fe928ac7f8883c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d596e16558fe8d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8793972d540e5111",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "58191ee82b35570d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0239ea23f6423769",
+    "type": "split",
+    "children": [
+      {
+        "id": "32cf6ab51ac0487c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca91d49a40365e09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for books"
+            }
+          },
+          {
+            "id": "302479748fb12671",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from books"
+            }
+          },
+          {
+            "id": "bbe37f4471bb8a4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14e7237e70d67bea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of books"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a159cd21adef51ba",
+  "lastOpenFiles": [
+    "root.md",
+    "books.md"
+  ]
+}
